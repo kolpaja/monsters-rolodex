@@ -1,0 +1,9 @@
+/* todo: if we want to add some css styles to a specific component we import it to the file that we are using and  then we assign the className set to the class or id name of that */
+
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
